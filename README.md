@@ -1,5 +1,4 @@
-# terra-viva
-Sistema para organização de registros, produção, vendas e rastreabilidade de uma iniciativa agroecológica.
+
 # 🌱 Terra Viva — Gestão e Rastreabilidade Agroecológica
 
 ## Sobre o projeto
